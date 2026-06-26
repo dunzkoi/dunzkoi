@@ -18,46 +18,31 @@
 
 | | Project | Description |
 |---|---|---|
-| 📋 | [**plan-wall**](https://github.com/dunzkoi/plan-wall) | 주간·월간 할일 보드 — [plan.flowoodz.com](https://plan.flowoodz.com) |
-| 📺 | [**youtube-trending-finder**](https://github.com/dunzkoi/youtube-trending-finder) | YouTube KR/US trending — [yt.flowoodz.com](https://yt.flowoodz.com) |
-| 🦫 | [**capybara-survivor**](https://github.com/dunzkoi/capybara-survivor) | 카피바라 서바이벌 게임 — [capybara.flowoodz.com](https://capybara.flowoodz.com) |
+| 📋 | [**Plan Wall**](https://plan.flowoodz.com) | 주간·월간 할일 보드 |
+| 📺 | [**YouTube Trending Finder**](https://yt.flowoodz.com) | YouTube KR/US trending |
+| 🦫 | [**Capybara Survivor**](https://capybara.flowoodz.com) | 카피바라 서바이벌 게임 |
 
 ---
 
 ## 🌐 flowoodz (Web)
 
-- [**plan-wall**](https://github.com/dunzkoi/plan-wall) — Fastify + PostgreSQL, Google OAuth, 주간/월간 보드
-- [**youtube-trending-finder**](https://github.com/dunzkoi/youtube-trending-finder) — KR/US 트렌딩 수집·조회
-- [**capybara-survivor**](https://github.com/dunzkoi/capybara-survivor) — 브라우저 서바이벌 게임
-- [**flowoodz-root**](https://github.com/dunzkoi/plan-wall/tree/main/infra/flowoodz-root) — apex `flowoodz.com` ads.txt + redirect (nginx)
+- [**Plan Wall**](https://plan.flowoodz.com) — Fastify + PostgreSQL, Google OAuth, 주간/월간 보드
+- [**YouTube Trending Finder**](https://yt.flowoodz.com) — KR/US 트렌딩 수집·조회
+- [**Capybara Survivor**](https://capybara.flowoodz.com) — 브라우저 서바이벌 게임
 
 ---
 
-## 🤖 Agents & Dev Tools
+## 🛠 Dev Tools
 
-- [**hermes-agent**](https://github.com/dunzkoi/hermes-agent) — The agent that grows with you
 - [**cw**](https://github.com/dunzkoi/cw) — Claude Worktree — git worktree + `claude -w` 통합 CLI
-- [**homebrew-tap**](https://github.com/dunzkoi/homebrew-tap) — Homebrew tap
-- [**dashboard**](https://github.com/dunzkoi/dashboard) — Koi HQ Dashboard
+- **synchole** — 모던 스팟라이트 싱크홀 · *TBD*
 
 ---
 
-## 🎮 Peon / Audio & Mac
+## 🎮 Peon / Audio
 
 - [**registry**](https://github.com/dunzkoi/registry) — OpenPeon pack registry (CESP metadata index)
 - [**openpeon-demon-slayer**](https://github.com/dunzkoi/openpeon-demon-slayer) — Demon Slayer voice packs for peonping.com
-- [**muxy**](https://github.com/dunzkoi/muxy) — Lightweight Mac terminal (SwiftUI + libghostty)
-- [**synchole**](https://github.com/dunzkoi/synchole) — 모던 스팟라이트 싱크홀
-- [**kaku**](https://github.com/dunzkoi/kaku) — Kaku terminal configuration
-
----
-
-## 📓 Other
-
-- [**vault**](https://github.com/dunzkoi/vault) — Obsidian vault
-- [**xwriter**](https://github.com/dunzkoi/xwriter)
-- [**clawd**](https://github.com/dunzkoi/clawd)
-- [**openclaw-config**](https://github.com/dunzkoi/openclaw-config)
 
 ---
 
