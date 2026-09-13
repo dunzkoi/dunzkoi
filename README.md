@@ -28,6 +28,7 @@
 - [**Plan Wall**](https://plan.flowoodz.com) — Fastify + PostgreSQL, Google OAuth, 주간/월간 보드
 - [**YouTube Trending Finder**](https://yt.flowoodz.com) — KR/US 트렌딩 수집·조회
 - [**Capybara Survivor**](https://capybara.flowoodz.com) — 브라우저 서바이벌 게임
+- [**GIF Moments**](https://gif.flowoodz.com) — 영상에서 중요한 순간을 자동으로 잘라 GIF로
 
 ---
 
