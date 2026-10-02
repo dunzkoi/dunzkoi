@@ -17,6 +17,7 @@
 
 | | Project | Description |
 |---|---|---|
+| 🔍 | [**Loupecast**](https://dunzkoi.github.io/loupecast/) | 클릭한 곳을 자동 확대하는 무료 오픈소스 macOS 화면 녹화 앱 |
 | 📋 | [**Plan Wall**](https://plan.flowoodz.com) | 주간·월간 할일 보드 |
 | 📺 | [**YouTube Trending Finder**](https://yt.flowoodz.com) | YouTube KR/US trending |
 | 🦫 | [**Capybara Survivor**](https://capybara.flowoodz.com) | 카피바라 서바이벌 게임 |
@@ -29,6 +30,12 @@
 - [**YouTube Trending Finder**](https://yt.flowoodz.com) — KR/US 트렌딩 수집·조회
 - [**Capybara Survivor**](https://capybara.flowoodz.com) — 브라우저 서바이벌 게임
 - [**GIF Moments**](https://gif.flowoodz.com) — 영상에서 중요한 순간을 자동으로 잘라 GIF로
+
+---
+
+## 🍎 macOS Apps
+
+- [**Loupecast**](https://github.com/dunzkoi/loupecast) — click-zoom screen recorder, cut editing, 1080p60 export · `brew install --cask dunzkoi/tap/loupecast` · [website](https://dunzkoi.github.io/loupecast/)
 
 ---
 
@@ -50,6 +57,7 @@
 
 - 🌐 [flowoodz.com](https://flowoodz.com) → [Plan Wall](https://plan.flowoodz.com)
 - ✉️ [flowoodz@flowoodz.com](mailto:flowoodz@flowoodz.com)
+- 💖 [Sponsor on GitHub](https://github.com/sponsors/dunzkoi) — keeps Loupecast and the other tools free
 
 ---
 
